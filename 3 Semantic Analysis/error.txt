@@ -1,0 +1,20 @@
+Line# 14: Syntax error at expression of expression statement
+Line# 15: Syntax error at expression of expression statement
+Line# 17: Operands of modulus must be integers
+Line# 20: Array subscript is not an integer
+Line# 24: Redeclared variable 'i'
+Line# 27: Undeclared variable 'j'
+Line# 30: Syntax error at expression of expression statement
+Line# 37: Undeclared function 'i'
+Line# 44: Too few arguments to function  'mul_float'
+Line# 45: Type mismatch for argument 1 of 'mul_float'
+Line# 45: Type mismatch for argument 2 of 'mul_float'
+Line# 45: Type mismatch for argument 3 of 'mul_float'
+Line# 47: Type mismatch for argument 1 of 'add_int'
+Line# 47: Type mismatch for argument 2 of 'add_int'
+Line# 55: Too few arguments to function  'add_int'
+Line# 55: Too many arguments to function  'add_int'
+Line# 64: Undeclared function 'print'
+Line# 65: Undeclared function 'print'
+Line# 66: Undeclared function 'print'
+Line# 67: Undeclared function 'print'

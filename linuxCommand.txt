@@ -1,0 +1,110 @@
+create dir : mkdir dir_name
+create new file : touch file_name.extension
+change file name : mv oldfile.ext newfile.ext
+move one dir back : cd ../
+copy dir : cp -R source_dir destination_dir
+merge files: pdftk f1 f2 f3 cat output merged_file
+rename a file: mv old.txt new.txt
+Download file from drive:
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O FILENAME
+Copy the link for sharing…like…https://drive.google.com/file/d/1UibyVC_C2hoT_XEw15gPEwPW4yFyJFeOEA/view?usp=sharing
+Extrac FILEID part like….from above….1UibyVC_C2hoT_XEw15gPEwPW4yFyJFeOEA
+
+to debug segmentation fault: 
+$ gdb ./a.out
+(gdb) run input.c
+<segfault happens here>
+(gdb) backtrace
+<offending code is shown here>
+
+cmd:
+flex scanner.l
+g++ lex.yy.c
+ls
+./a.out input.txt
+cat token_file.txt
+
+%% divides the sections
+# Give the script file correct permssions $chmod 744 <name of scipt file e.g script.sh>
+$ chmod 744 script.sh 
+
+#now the file is ready to run run it with $ ./<name of scirpt file e.g. script.sh>
+$ ./script.sh
+ctrl + d :eof
+
+libreoffice --headless --invisible --convert-to pdf *.pptx
+
+sudo apt-get install unzip
+
+
+gitCommands:
+git init
+git status
+git config --global user.email "1905021@ugrad.cse.buet.ac.bd"
+git config --global user.name "Sakib Mohammed Sobaha"
+git add --all
+git rm --cached x.ext
+git commit -m "msg"
+git log
+git checkout commit_id
+git remote add origin <git repo link>
+git remote -v
+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
+AuthToken
+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
+Compiler_Access_Token: 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
+
+git remote set-url origin https://Sakib-1905021-1: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@github.com/Sakib-1905021-1/C-Compiler.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
